@@ -10,21 +10,21 @@
 
 <div align="center">
  
- 🔭 I am currently working in **a Hospital**
+🔭 Currently working at **a hospital**, contributing with tech solutions in the healthcare sector.
  
- 🌱 I'm currently learning **microservices and ASP.NET**
+ 🌱 Learning **microservices architecture** and **diving deeper into ASP.NET**
 
 💬 Ask me about **Node.js, React, nextJS... or anything [here](https://wa.link/81lr99)**
 
 ⚡ a curiosity of mine **I love playing multiplayer online games**
 
  </div>
- 
+
 <div align="center"> 
   <a href="mailto:wesley.mr2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/wesley-maia-7717572b8/" target="_blank">
+  <a href="https://www.linkedin.com/in/wesleymaiarocha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://wr1856.github.io" target="_blank">
