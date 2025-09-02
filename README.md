@@ -18,8 +18,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,angular,html,css,vscode,github,figma,tailwind,git,cs" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,dotnet,docker,kali,lua,sqlite,nextjs,mysql,windows" /><br>
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,nodejs,javascript,typescript,tailwind,nextjs" />
+    <img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,kali,figma,sqlite,mysql,git,windows" /><br>
 </div>
 
 <br/>
