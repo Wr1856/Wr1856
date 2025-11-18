@@ -4,12 +4,6 @@
 
 <br/>
 <br/>
-<br/>
-
-## <p align="center">  👨‍💻 Sobre Mim <p/>
-- 🎓 **Cientista da computação** atuando em **Analise de Sistemas** e apaixonado por **IA**  
-- 🏥 Atualmente **estagiando** como Analista de Sistemas no **Hospital SARAH**  
-- 💡 Entrego soluções práticas e escaláveis com **clean code** e **UX** em mente  
 
 <br/>
 
