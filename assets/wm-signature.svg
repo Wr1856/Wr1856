@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="150" viewBox="0 0 240 150" role="img" aria-label="Assinatura WM">
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8A7138"/>
+      <stop offset="50%" stop-color="#E4D39B"/>
+      <stop offset="100%" stop-color="#8A7138"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#gold)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M94 31L101 14L120 25L139 14L146 31Z" stroke-width="2.5"/>
+    <path d="M98 36H142" stroke-width="2.5"/>
+    <path d="M48 58L67 124L119 72L171 124L192 58" stroke-width="6"/>
+    <path d="M64 123V63L119 112L176 63V123" stroke-width="5"/>
+    <path d="M23 137H83M157 137H217" stroke-width="1.6"/>
+    <path d="M106 137L120 129L134 137L120 145Z" stroke-width="1.6"/>
+  </g>
+</svg>

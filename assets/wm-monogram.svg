@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="210" viewBox="0 0 240 210" role="img" aria-labelledby="title">
+  <title id="title">Monograma WM de Wesley Maia</title>
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8A7138"/>
+      <stop offset="48%" stop-color="#E4D39B"/>
+      <stop offset="100%" stop-color="#8A7138"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g fill="none" stroke="url(#gold)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M91 42L99 21L120 34L141 21L149 42Z" stroke-width="3"/>
+    <path d="M96 48H144" stroke-width="3"/>
+    <circle cx="99" cy="21" r="2.5" fill="#D7C486" stroke="none"/>
+    <circle cx="120" cy="34" r="2.5" fill="#D7C486" stroke="none"/>
+    <circle cx="141" cy="21" r="2.5" fill="#D7C486" stroke="none"/>
+    <path d="M43 73L69 168L119 101L169 168L197 73" stroke-width="8" filter="url(#glow)"/>
+    <path d="M63 167V79L119 146L177 79V167" stroke-width="7"/>
+    <path d="M85 147L101 126" stroke="#0A0E16" stroke-width="12"/>
+    <path d="M137 124L152 144" stroke="#0A0E16" stroke-width="12"/>
+    <path d="M85 147L101 126" stroke="url(#gold)" stroke-width="7"/>
+    <path d="M137 124L152 144" stroke="url(#gold)" stroke-width="7"/>
+    <path d="M24 187H93M147 187H216" stroke-width="2"/>
+    <path d="M106 187L120 178L134 187L120 196Z" stroke-width="2"/>
+  </g>
+</svg>
