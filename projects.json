@@ -1,0 +1,51 @@
+{
+  "owner": "Wr1856",
+  "projects": [
+    {
+      "repository": "reviewComment",
+      "title": "reviewComment",
+      "summary_pt": "Sistema de avaliações",
+      "summary_en": "Review system",
+      "description_pt": "Interface responsiva para avaliações de produtos, com notas em estrelas, comentários, filtros, ordenação, votos e persistência local.",
+      "description_en": "Responsive product-review interface with star ratings, comments, filters, sorting, voting, and local persistence.",
+      "stack": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "LocalStorage"
+      ],
+      "highlights_pt": [
+        "Sistema interativo de avaliações e comentários.",
+        "Filtros, ordenação e votos.",
+        "Interface responsiva e persistência no navegador."
+      ],
+      "highlights_en": [
+        "Interactive review and comment system.",
+        "Filters, sorting, voting, and browser persistence."
+      ],
+      "demo": ""
+    },
+    {
+      "repository": "auto-keys",
+      "title": "auto-keys",
+      "summary_pt": "Automação em Python",
+      "summary_en": "Python automation",
+      "description_pt": "Ferramenta modular para automatizar sequências de teclado e reduzir tarefas repetitivas.",
+      "description_en": "Modular tool for automating keyboard sequences and reducing repetitive tasks.",
+      "stack": [
+        "Python",
+        "Automação",
+        "Testes"
+      ],
+      "highlights_pt": [
+        "Execução configurável de sequências.",
+        "Estrutura preparada para evolução e testes."
+      ],
+      "highlights_en": [
+        "Configurable sequence execution.",
+        "Structure designed for extension and testing."
+      ],
+      "demo": ""
+    }
+  ]
+}
