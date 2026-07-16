@@ -1,133 +1,237 @@
 <div align="center">
 
-  <img src="./assets/royal-header.svg" alt="Wesley Maia — desenvolvimento de software, web e automação" width="100%" />
+  <img src="./assets/wm-monogram.svg" width="154" alt="Monograma WM" />
 
-  <br />
+  <h1>Wesley Maia</h1>
 
-  <a href="https://wr1856.github.io">
-    <img src="https://img.shields.io/badge/MEU%20DOMÍNIO-0A0E16?style=for-the-badge&logo=vercel&logoColor=D6C79C" alt="Portfólio" />
-  </a>
-  <a href="https://github.com/Wr1856?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITÓRIOS-0A0E16?style=for-the-badge&logo=github&logoColor=D6C79C" alt="Repositórios" />
-  </a>
+  <p><strong>Desenvolvedor e Especialista em Soluções Digitais</strong></p>
 
-  <br /><br />
+  <img
+    src="./assets/areas.gif"
+    width="760"
+    alt="Áreas de atuação: desenvolvimento web, back-end, APIs, QA, automação e infraestrutura"
+  />
 
-  <img src="https://komarev.com/ghpvc/?username=Wr1856&label=VISITAS&style=for-the-badge&color=17253D" alt="Visualizações do perfil" />
-  <img src="https://img.shields.io/github/followers/Wr1856?label=SEGUIDORES&style=for-the-badge&color=17253D" alt="Seguidores no GitHub" />
-  <img src="https://img.shields.io/github/stars/Wr1856?affiliations=OWNER&label=ESTRELAS&style=for-the-badge&color=17253D" alt="Estrelas recebidas" />
+  <p>
+    Transformo complexidade em soluções digitais que funcionam, comunicam e crescem.
+  </p>
 
-</div>
-
-<br />
-
-<p align="center">
-  <code>software · aplicações web · automações · integrações · experimentos</code>
-</p>
-
-<img src="./assets/ornament-divider.svg" alt="" width="100%" />
-
-## Arquivo de projetos
-
-<p align="center">
-  <a href="https://github.com/Wr1856/reviewComment">
-    <img src="./assets/project-review-comment.svg" width="49%" alt="Projeto reviewComment" />
-  </a>
-  <a href="https://github.com/Wr1856/auto-keys">
-    <img src="./assets/project-auto-keys.svg" width="49%" alt="Projeto auto-keys" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Wr1856?tab=repositories">
-    <img src="./assets/project-laboratory.svg" width="49%" alt="Laboratório de projetos e experimentos" />
-  </a>
-</p>
-
-<div align="center">
-  <a href="https://github.com/Wr1856?tab=repositories">
-    <strong>Entrar no arquivo completo →</strong>
-  </a>
-</div>
-
-<br />
-
-<img src="./assets/ornament-divider.svg" alt="" width="100%" />
-
-## Arsenal técnico
-
-<div align="center">
-
-### Linguagens
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cs,html,css&theme=dark" alt="JavaScript, TypeScript, Python, C Sharp, HTML e CSS" />
-
-### Frameworks e aplicações
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,nodejs,dotnet,tailwind&theme=dark" alt="React, Next.js, Vue, Angular, Node.js, .NET e Tailwind CSS" />
-
-### Dados e ferramentas
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,docker,linux,git,github,vercel,figma,vscode&theme=dark" alt="Bancos de dados, infraestrutura e ferramentas" />
+  <sub>
+    I turn complexity into digital solutions that work, communicate, and grow.
+  </sub>
 
 </div>
 
 <br />
 
-<table>
+<table align="center">
   <tr>
-    <td width="33%" valign="top">
-      <h3>Web</h3>
-      Interfaces responsivas, componentes reutilizáveis e experiências digitais com identidade.
+    <td align="center">
+      <a href="https://wr1856.github.io">
+        <img src="./assets/crown.svg" width="34" alt="Portfólio" /><br />
+        <sub><strong>PORTFÓLIO</strong></sub>
+      </a>
     </td>
-    <td width="33%" valign="top">
-      <h3>Back-end</h3>
-      APIs, regras de negócio, integrações, persistência e organização de serviços.
+    <td align="center">
+      <a href="https://github.com/Wr1856">
+        <img src="./assets/crown.svg" width="34" alt="GitHub" /><br />
+        <sub><strong>GITHUB</strong></sub>
+      </a>
     </td>
-    <td width="33%" valign="top">
-      <h3>Automação</h3>
-      Scripts, testes, ferramentas internas e redução de processos repetitivos.
+    <td align="center">
+      <a href="https://github.com/Wr1856?tab=repositories">
+        <img src="./assets/crown.svg" width="34" alt="Repositórios" /><br />
+        <sub><strong>REPOSITÓRIOS</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/wesleymaiarocha/">
+        <img src="./assets/crown.svg" width="34" alt="LinkedIn" /><br />
+        <sub><strong>LINKEDIN</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:wesley.mr2000@gmail.com">
+        <img src="./assets/crown.svg" width="34" alt="E-mail" /><br />
+        <sub><strong>E-MAIL</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.link/81lr99">
+        <img src="./assets/crown.svg" width="34" alt="WhatsApp" /><br />
+        <sub><strong>WHATSAPP</strong></sub>
+      </a>
     </td>
   </tr>
 </table>
 
-<img src="./assets/ornament-divider.svg" alt="" width="100%" />
-
-## Registro de atividade
+<br />
 
 <div align="center">
 
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wr1856&theme=github_dark&title_color=D6C79C&text_color=D6D0C2&bg_color=0A0E16&border_color=3A3224&icon_color=C7AE6A&hide_logo=true"
-    alt="Estatísticas do GitHub"
-  />
+  <a href="https://github.com/Wr1856">
+    <img src="./profile/followers.svg" alt="Seguidores" />
+  </a>
 
-  <img
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wr1856&theme=github_dark&title_color=D6C79C&text_color=D6D0C2&bg_color=0A0E16&border_color=3A3224&chart_color=C7AE6A"
-    alt="Linguagens mais presentes nos repositórios"
-  />
+  <a href="https://github.com/Wr1856">
+    <img
+      src="https://komarev.com/ghpvc/?username=Wr1856&label=VISUALIZAÇÕES&style=for-the-badge&color=17253D"
+      alt="Visualizações do perfil"
+    />
+  </a>
+
+  <a href="https://github.com/Wr1856?tab=repositories">
+    <img src="./profile/repositories.svg" alt="Repositórios públicos" />
+  </a>
+
+  <a href="https://github.com/Wr1856?tab=overview">
+    <img src="./profile/activity.svg" alt="Estatísticas do GitHub" />
+  </a>
 
 </div>
 
-<p align="center">
-  <sub>As métricas representam apenas os repositórios públicos.</sub>
-</p>
+<br />
 
-<img src="./assets/ornament-divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-
-  <img src="./assets/royal-seal.svg" alt="Selo WM" width="92" />
+<details>
+  <summary><strong>♛ Projetos em destaque / Featured projects</strong></summary>
 
   <br />
 
-  <code>conceber · construir · testar · aprimorar</code>
+<!-- PROJECTS:START -->
+<details>
+  <summary><strong>♛ reviewComment</strong> — Sistema de avaliações / Review system</summary>
 
-  <br /><br />
+  <br />
 
-  Informações profissionais, serviços e contato estão no
-  <a href="https://wr1856.github.io"><strong>meu site</strong></a>.
+  **PT-BR**
+
+  Interface responsiva para avaliações de produtos, com notas em estrelas, comentários, filtros, ordenação, votos e persistência local.
+
+  **EN**
+
+  Responsive product-review interface with star ratings, comments, filters, sorting, voting, and local persistence.
+
+  **Stack**
+
+  `JavaScript` · `HTML` · `CSS` · `LocalStorage`
+
+  **Destaques / Highlights**
+
+  - Sistema interativo de avaliações e comentários.
+  - Filtros, ordenação e votos.
+  - Interface responsiva e persistência no navegador.
+  - Interactive review and comment system.
+  - Filters, sorting, voting, and browser persistence.
+
+  **Links**
+
+  [Repositório / Repository](https://github.com/Wr1856/reviewComment)
+
+</details>
+
+<br />
+
+<details>
+  <summary><strong>♛ auto-keys</strong> — Automação em Python / Python automation</summary>
+
+  <br />
+
+  **PT-BR**
+
+  Ferramenta modular para automatizar sequências de teclado e reduzir tarefas repetitivas.
+
+  **EN**
+
+  Modular tool for automating keyboard sequences and reducing repetitive tasks.
+
+  **Stack**
+
+  `Python` · `Automação` · `Testes`
+
+  **Destaques / Highlights**
+
+  - Execução configurável de sequências.
+  - Estrutura preparada para evolução e testes.
+  - Configurable sequence execution.
+  - Structure designed for extension and testing.
+
+  **Links**
+
+  [Repositório / Repository](https://github.com/Wr1856/auto-keys)
+
+</details>
+<!-- PROJECTS:END -->
+
+  <br />
+
+  <div align="center">
+    <a href="https://github.com/Wr1856?tab=repositories">
+      <strong>Ver todos os repositórios / View all repositories →</strong>
+    </a>
+  </div>
+
+</details>
+
+<br />
+
+<details>
+  <summary><strong>♛ Tecnologias, ferramentas e atividade / Technologies, tools & activity</strong></summary>
+
+  <br />
+
+  ### Stack principal / Core stack
+
+  `JavaScript` · `TypeScript` · `C#` · `SQL` · `Node.js` · `.NET` · `React` · `Next.js`
+
+  ### Tecnologias de apoio / Supporting technologies
+
+  `Python` · `Angular` · `Vue.js` · `Tailwind CSS` · `MySQL` · `PostgreSQL` · `SQLite` · `Supabase`
+
+  ### Ferramentas favoritas / Favorite tools
+
+  `Git` · `GitHub` · `Docker` · `Linux` · `VS Code` · `Figma` · `Vercel`
+
+  ### Áreas de atuação / Areas of practice
+
+  - Desenvolvimento web e interfaces responsivas.
+  - Back-end, APIs, integrações e bancos de dados.
+  - Qualidade de software, testes e documentação.
+  - Automação, suporte técnico e infraestrutura.
+  - Web development and responsive interfaces.
+  - Back-end, APIs, integrations, and databases.
+  - Software quality, testing, and documentation.
+  - Automation, technical support, and infrastructure.
+
+  ### Próximos estudos / Learning next
+
+  `IA aplicada` · `Machine Learning` · `Arquitetura de Software` · `Testes Automatizados` · `Cloud & DevOps`
+
+  <br />
+
+  <div align="center">
+    <img src="./profile/overview.svg" alt="Resumo da atividade pública no GitHub" width="760" />
+  </div>
+
+</details>
+
+<br />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+  <img src="./assets/wm-signature.svg" width="112" alt="Assinatura WM" />
+
+  <br />
+
+  <em>
+    “Aquele que tem um porquê para viver pode suportar quase qualquer como.”
+  </em>
+
+  <br />
+
+  <sub>Friedrich Nietzsche</sub>
 
 </div>
