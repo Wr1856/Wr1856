@@ -97,8 +97,17 @@
 
 <div align="center">
 
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Wr1856&show_icons=true&hide_border=true&hide_title=true&bg_color=0A0E16&text_color=D6D0C2&icon_color=C7AE6A&ring_color=415F8B" alt="Estatísticas do GitHub" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wr1856&layout=compact&hide_border=true&bg_color=0A0E16&title_color=D6C79C&text_color=D6D0C2" alt="Linguagens mais presentes nos repositórios" />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wr1856&theme=github_dark&title_color=D6C79C&text_color=D6D0C2&bg_color=0A0E16&border_color=3A3224&icon_color=C7AE6A&hide_logo=true"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wr1856&theme=github_dark&title_color=D6C79C&text_color=D6D0C2&bg_color=0A0E16&border_color=3A3224&chart_color=C7AE6A"
+    alt="Linguagens mais presentes nos repositórios"
+  />
 
 </div>
 
