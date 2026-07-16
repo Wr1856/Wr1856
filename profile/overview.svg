@@ -1,6 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="126" viewBox="0 0 780 126" role="img">
-  <rect x="1" y="1" width="778" height="124" rx="10" fill="#0A0E16" stroke="#D6C48B" stroke-opacity=".24"/>
-  <path d="M20 20H80M20 20V50M760 76V106H700" fill="none" stroke="#D6C48B" stroke-opacity=".16"/>
-  <text x="28" y="31" fill="#AAB5C8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.3">ATIVIDADE PÚBLICA / PUBLIC ACTIVITY</text>
-  <text x="105" y="69" text-anchor="middle" fill="#D6C48B" font-family="Georgia, serif" font-size="27">4</text><text x="105" y="95" text-anchor="middle" fill="#AAB5C8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1">REPOSITÓRIOS</text><text x="295" y="69" text-anchor="middle" fill="#D6C48B" font-family="Georgia, serif" font-size="27">2</text><text x="295" y="95" text-anchor="middle" fill="#AAB5C8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1">SEGUIDORES</text><text x="485" y="69" text-anchor="middle" fill="#D6C48B" font-family="Georgia, serif" font-size="27">0</text><text x="485" y="95" text-anchor="middle" fill="#AAB5C8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1">ESTRELAS</text><text x="675" y="69" text-anchor="middle" fill="#D6C48B" font-family="Georgia, serif" font-size="27">0</text><text x="675" y="95" text-anchor="middle" fill="#AAB5C8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1">FORKS</text>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="780" height="128" viewBox="0 0 780 128"
+  role="img" aria-label="Resumo da atividade pública no GitHub">
+
+  <rect x="1" y="1" width="778" height="126" rx="10"
+    fill="#0A0E16" stroke="#D6C48B" stroke-opacity=".24"/>
+
+  <path d="M20 20H80M20 20V49M760 79V108H700"
+    fill="none" stroke="#D6C48B" stroke-opacity=".16"/>
+
+  <text x="28" y="31"
+    fill="#AAB5C8" font-family="Arial, sans-serif"
+    font-size="10" font-weight="700" letter-spacing="1.3">
+    RESUMO DA ATIVIDADE PÚBLICA
+  </text>
+
+  <text x="105" y="72" text-anchor="middle" fill="#D6C48B" font-family="Georgia, serif" font-size="29">4</text><text x="105" y="98" text-anchor="middle" fill="#AAB5C8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1">REPOSITÓRIOS</text><text x="295" y="72" text-anchor="middle" fill="#D6C48B" font-family="Georgia, serif" font-size="29">2</text><text x="295" y="98" text-anchor="middle" fill="#AAB5C8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1">SEGUIDORES</text><text x="485" y="72" text-anchor="middle" fill="#D6C48B" font-family="Georgia, serif" font-size="29">0</text><text x="485" y="98" text-anchor="middle" fill="#AAB5C8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1">ESTRELAS</text><text x="675" y="72" text-anchor="middle" fill="#D6C48B" font-family="Georgia, serif" font-size="29">0</text><text x="675" y="98" text-anchor="middle" fill="#AAB5C8" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1">FORKS</text>
 </svg>
