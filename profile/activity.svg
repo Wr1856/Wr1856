@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="202" height="30" viewBox="0 0 202 30">
+<svg xmlns="http://www.w3.org/2000/svg" width="202" height="30" viewBox="0 0 202 30" role="img" aria-label="Abrir estatísticas do GitHub">
   <rect width="202" height="30" rx="4" fill="#0A0E16"/>
   <rect x="1" y="1" width="200" height="28" rx="3" fill="none" stroke="#D6C48B" stroke-opacity=".28"/>
-  <path d="M11 19L14 10L20 16L25 8L30 16L36 10L39 19Z" fill="none" stroke="#D6C48B" stroke-width="1.3"/>
-  <text x="48" y="19.5" fill="#AAB5C8" font-family="Arial, sans-serif" font-size="10" font-weight="700">ESTATÍSTICAS</text>
+  <path d="M12 20V14M18 20V10M24 20V6M30 20V12" stroke="#D6C48B" stroke-width="1.5"/>
+  <text x="43" y="19.5" fill="#AAB5C8" font-family="Arial, sans-serif" font-size="10" font-weight="700">ESTATÍSTICAS</text>
   <text x="190" y="19.5" text-anchor="end" fill="#E7E0D0" font-family="Arial, sans-serif" font-size="11" font-weight="700">ABRIR</text>
 </svg>
